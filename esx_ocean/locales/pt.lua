@@ -1,0 +1,16 @@
+Locales['pt'] = {
+	['GPS_info'] = '~b~ Radio:Um novo naufrágio foi destacado no teu ~y~GPS',
+	['cancel_mission'] = '~r~Cancelaste ~s~a missão.',
+	['pickup'] = 'Pressiona ~INPUT_CONTEXT~ para a área de maçarico.',
+	['end_service'] = 'Terminar trabalho.',
+	['take_service'] = 'Começar trabalho.',
+	['end_service_notif'] = '~r~Trabalho terminado.',
+	['take_service_notif'] = '~g~Trabalho iniciado.',
+	['start_job'] = 'Pressiona ~b~F10 ~w~para começares o trabalho.',
+	['Vehicle_Menu_Title'] = 'Veiculo de Trabalho',
+	['in_vehicle'] = '~r~Tens que estar fora do veiculo!',
+	['vehicle_broken'] = '~r~Precisas de reparar o veiculo antes de continuares!',
+	['bad_vehicle'] = 'Só consegues guardar o ~b~Veiculo de Trabalho',
+	['not_good_veh'] = '~r~Precisas de estar no Veiculo de Trabalho!',
+	['stop_npc'] = 'Trabalho ~g~Terminado~s~ : Volta para o depósito.',
+}
